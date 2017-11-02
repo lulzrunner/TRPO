@@ -1,0 +1,7 @@
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+e:\lulz_bot\documents\visual studio 2017\Projects\ТРПО_Регулярки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
